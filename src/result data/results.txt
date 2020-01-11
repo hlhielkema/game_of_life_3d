@@ -1,0 +1,24 @@
+Er zijn 3 waardes waarmee we de regels kunnen aanpassen en dat zijn de volgenden:
+
+Als de cell leeft:
+A. Minimaal aantal om zich heen om te overleven.
+B. Maximaal aantal om zich heen om te overleven.
+Als er niet een cell leeft:
+C. aantal om een cell te laten ontstaan.
+
+voorwaardes:
+A <= C <= B
+B > A
+
+De waardes die in 2d gebruikt worden zijn:
+2, 3, 3
+
+Aantal bevindingen:
+- In 2d overleeft er 2/3% van de cellen tot een stabiele toestand.
+- overleefkans sterk afhankelijk van aantal stabiele vormen.
+- als A > 5, alles dood binnen 500 10 generations
+- met A = 4 gaan de eerste combinaties helemaal dood
+- A = 1 of A = 2 is altijd waardeloos
+
+speciaal:
+5, 8, 6

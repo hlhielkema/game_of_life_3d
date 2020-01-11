@@ -1,0 +1,165 @@
+gen A=1, B=1, C=1 is still alive after 500generations with 4405 cells (16.314814814814817% of world)
+gen A=1, B=2, C=1 is still alive after 500generations with 4604 cells (17.05185185185185% of world)
+gen A=1, B=2, C=2 is still alive after 500generations with 5133 cells (19.011111111111113% of world)
+gen A=1, B=3, C=1 is still alive after 500generations with 4787 cells (17.729629629629628% of world)
+gen A=1, B=3, C=2 is still alive after 500generations with 5646 cells (20.91111111111111% of world)
+gen A=1, B=3, C=3 is still alive after 500generations with 5862 cells (21.711111111111112% of world)
+gen A=1, B=4, C=1 is still alive after 500generations with 5403 cells (20.01111111111111% of world)
+gen A=1, B=4, C=2 is still alive after 500generations with 6295 cells (23.314814814814817% of world)
+gen A=1, B=4, C=3 is still alive after 500generations with 6215 cells (23.01851851851852% of world)
+gen A=1, B=4, C=4 is still alive after 500generations with 6426 cells (23.799999999999997% of world)
+gen A=1, B=5, C=1 is still alive after 500generations with 6540 cells (24.22222222222222% of world)
+gen A=1, B=5, C=2 is still alive after 500generations with 6909 cells (25.58888888888889% of world)
+gen A=1, B=5, C=3 is still alive after 500generations with 6897 cells (25.54444444444444% of world)
+gen A=1, B=5, C=4 is still alive after 500generations with 6762 cells (25.044444444444448% of world)
+gen A=1, B=5, C=5 is still alive after 500generations with 6857 cells (25.396296296296295% of world)
+gen A=1, B=6, C=1 is still alive after 500generations with 7517 cells (27.84074074074074% of world)
+gen A=1, B=6, C=2 is still alive after 500generations with 7729 cells (28.625925925925927% of world)
+gen A=1, B=6, C=3 is still alive after 500generations with 7492 cells (27.74814814814815% of world)
+gen A=1, B=6, C=4 is still alive after 500generations with 7583 cells (28.085185185185185% of world)
+gen A=1, B=6, C=5 is still alive after 500generations with 7258 cells (26.881481481481483% of world)
+gen A=1, B=6, C=6 is still alive after 500generations with 7315 cells (27.09259259259259% of world)
+gen A=1, B=7, C=1 is still alive after 500generations with 10502 cells (38.8962962962963% of world)
+gen A=1, B=7, C=2 is still alive after 500generations with 10551 cells (39.077777777777776% of world)
+gen A=1, B=7, C=3 is still alive after 500generations with 10671 cells (39.52222222222222% of world)
+gen A=1, B=7, C=4 is still alive after 500generations with 9023 cells (33.41851851851852% of world)
+gen A=1, B=7, C=5 is still alive after 500generations with 8653 cells (32.04814814814815% of world)
+gen A=1, B=7, C=6 is still alive after 500generations with 8164 cells (30.237037037037034% of world)
+gen A=1, B=7, C=7 is still alive after 500generations with 914 cells (3.3851851851851853% of world)
+gen A=1, B=8, C=1 is still alive after 500generations with 11738 cells (43.474074074074075% of world)
+gen A=1, B=8, C=2 is still alive after 500generations with 11816 cells (43.762962962962966% of world)
+gen A=1, B=8, C=3 is still alive after 500generations with 11929 cells (44.181481481481484% of world)
+gen A=1, B=8, C=4 is still alive after 500generations with 12238 cells (45.32592592592592% of world)
+gen A=1, B=8, C=5 is still alive after 500generations with 12462 cells (46.15555555555556% of world)
+gen A=1, B=8, C=6 is still alive after 500generations with 12658 cells (46.88148148148148% of world)
+gen A=1, B=8, C=7 is still alive after 500generations with 11423 cells (42.3074074074074% of world)
+gen A=1, B=8, C=8 is still alive after 500generations with 9087 cells (33.65555555555556% of world)
+gen A=1, B=9, C=1 is still alive after 500generations with 11706 cells (43.35555555555556% of world)
+gen A=1, B=9, C=2 is still alive after 500generations with 11693 cells (43.3074074074074% of world)
+gen A=1, B=9, C=3 is still alive after 500generations with 11894 cells (44.05185185185185% of world)
+gen A=1, B=9, C=4 is still alive after 500generations with 11953 cells (44.27037037037037% of world)
+gen A=1, B=9, C=5 is still alive after 500generations with 12286 cells (45.5037037037037% of world)
+gen A=1, B=9, C=6 is still alive after 500generations with 12569 cells (46.55185185185185% of world)
+gen A=1, B=9, C=7 is still alive after 500generations with 11484 cells (42.53333333333333% of world)
+gen A=1, B=9, C=8 is still alive after 500generations with 933 cells (3.4555555555555553% of world)
+gen A=1, B=9, C=9 is still alive after 500generations with 13354 cells (49.459259259259255% of world)
+gen A=2, B=2, C=2 is still alive after 500generations with 5059 cells (18.737037037037037% of world)
+gen A=2, B=3, C=2 is still alive after 500generations with 5530 cells (20.48148148148148% of world)
+gen A=2, B=3, C=3 is still alive after 500generations with 5821 cells (21.55925925925926% of world)
+gen A=2, B=4, C=2 is still alive after 500generations with 6142 cells (22.748148148148147% of world)
+gen A=2, B=4, C=3 is still alive after 500generations with 6389 cells (23.662962962962965% of world)
+gen A=2, B=4, C=4 is still alive after 500generations with 6381 cells (23.633333333333333% of world)
+gen A=2, B=5, C=2 is still alive after 500generations with 7078 cells (26.21481481481481% of world)
+gen A=2, B=5, C=3 is still alive after 500generations with 6865 cells (25.425925925925924% of world)
+gen A=2, B=5, C=4 is still alive after 500generations with 6669 cells (24.7% of world)
+gen A=2, B=5, C=5 is still alive after 500generations with 6543 cells (24.233333333333334% of world)
+gen A=2, B=6, C=2 is still alive after 500generations with 7519 cells (27.848148148148148% of world)
+gen A=2, B=6, C=3 is still alive after 500generations with 7646 cells (28.31851851851852% of world)
+gen A=2, B=6, C=4 is still alive after 500generations with 7333 cells (27.15925925925926% of world)
+gen A=2, B=6, C=5 is still alive after 500generations with 7273 cells (26.937037037037037% of world)
+gen A=2, B=6, C=6 is still alive after 500generations with 7388 cells (27.36296296296296% of world)
+gen A=2, B=7, C=2 is still alive after 500generations with 10031 cells (37.15185185185185% of world)
+gen A=2, B=7, C=3 is still alive after 500generations with 10122 cells (37.48888888888889% of world)
+gen A=2, B=7, C=4 is still alive after 500generations with 8892 cells (32.93333333333333% of world)
+gen A=2, B=7, C=5 is still alive after 500generations with 7796 cells (28.874074074074073% of world)
+gen A=2, B=7, C=6 is still alive after 500generations with 7900 cells (29.259259259259256% of world)
+gen A=2, B=7, C=7 is still alive after 500generations with 306 cells (1.1333333333333333% of world)
+gen A=2, B=8, C=2 is still alive after 500generations with 11821 cells (43.781481481481485% of world)
+gen A=2, B=8, C=3 is still alive after 500generations with 11998 cells (44.43703703703704% of world)
+gen A=2, B=8, C=4 is still alive after 500generations with 12272 cells (45.451851851851856% of world)
+gen A=2, B=8, C=5 is still alive after 500generations with 12444 cells (46.08888888888889% of world)
+gen A=2, B=8, C=6 is still alive after 500generations with 12678 cells (46.955555555555556% of world)
+gen A=2, B=8, C=7 is still alive after 500generations with 272 cells (1.0074074074074073% of world)
+gen A=2, B=8, C=8 is still alive after 500generations with 325 cells (1.2037037037037037% of world)
+gen A=2, B=9, C=2 is still alive after 500generations with 11662 cells (43.1925925925926% of world)
+gen A=2, B=9, C=3 is still alive after 500generations with 11784 cells (43.644444444444446% of world)
+gen A=2, B=9, C=4 is still alive after 500generations with 12052 cells (44.63703703703704% of world)
+gen A=2, B=9, C=5 is still alive after 500generations with 12308 cells (45.58518518518518% of world)
+gen A=2, B=9, C=6 is still alive after 500generations with 12786 cells (47.355555555555554% of world)
+gen A=2, B=9, C=7 is still alive after 500generations with 304 cells (1.1259259259259258% of world)
+gen A=2, B=9, C=8 is still alive after 500generations with 253 cells (0.9370370370370371% of world)
+gen A=2, B=9, C=9 is still alive after 500generations with 236 cells (0.874074074074074% of world)
+gen A=3, B=3, C=3 is still alive after 500generations with 5801 cells (21.485185185185184% of world)
+gen A=3, B=4, C=3 is still alive after 500generations with 6186 cells (22.91111111111111% of world)
+gen A=3, B=4, C=4 is still alive after 500generations with 6324 cells (23.42222222222222% of world)
+gen A=3, B=5, C=3 is still alive after 500generations with 6773 cells (25.085185185185182% of world)
+gen A=3, B=5, C=4 is still alive after 500generations with 6802 cells (25.192592592592593% of world)
+gen A=3, B=5, C=5 is still alive after 500generations with 6588 cells (24.4% of world)
+gen A=3, B=6, C=3 is still alive after 500generations with 7509 cells (27.81111111111111% of world)
+gen A=3, B=6, C=4 is still alive after 500generations with 7627 cells (28.24814814814815% of world)
+gen A=3, B=6, C=5 is still alive after 500generations with 7040 cells (26.074074074074073% of world)
+gen A=3, B=6, C=6 is still alive after 500generations with 32 cells (0.11851851851851852% of world)
+gen A=3, B=7, C=3 is still alive after 500generations with 9774 cells (36.199999999999996% of world)
+gen A=3, B=7, C=4 is still alive after 500generations with 8351 cells (30.92962962962963% of world)
+gen A=3, B=7, C=5 is still alive after 500generations with 8165 cells (30.24074074074074% of world)
+gen A=3, B=7, C=6 is still alive after 500generations with 7810 cells (28.925925925925927% of world)
+gen A=3, B=7, C=7 is still alive after 500generations with 50 cells (0.1851851851851852% of world)
+gen A=3, B=8, C=3 is still alive after 500generations with 11904 cells (44.08888888888889% of world)
+gen A=3, B=8, C=4 is still alive after 500generations with 12321 cells (45.63333333333333% of world)
+gen A=3, B=8, C=5 is still alive after 500generations with 12615 cells (46.72222222222222% of world)
+gen A=3, B=8, C=6 is still alive after 500generations with 57 cells (0.21111111111111108% of world)
+gen A=3, B=8, C=7 is still alive after 500generations with 18 cells (0.06666666666666667% of world)
+gen A=3, B=8, C=8 is still alive after 500generations with 36 cells (0.13333333333333333% of world)
+gen A=3, B=9, C=3 is still alive after 500generations with 11788 cells (43.65925925925926% of world)
+gen A=3, B=9, C=4 is still alive after 500generations with 11913 cells (44.12222222222223% of world)
+gen A=3, B=9, C=5 is still alive after 500generations with 12524 cells (46.385185185185186% of world)
+gen A=3, B=9, C=6 is still alive after 500generations with 12796 cells (47.39259259259259% of world)
+gen A=3, B=9, C=7 is still alive after 500generations with 12 cells (0.044444444444444446% of world)
+gen A=3, B=9, C=8 is still alive after 500generations with 16 cells (0.05925925925925926% of world)
+gen A=3, B=9, C=9 is still alive after 500generations with 57 cells (0.21111111111111108% of world)
+gen A=4, B=4, C=4 is still alive after 500generations with 6234 cells (23.08888888888889% of world)
+gen A=4, B=5, C=4 is still alive after 500generations with 6656 cells (24.651851851851852% of world)
+gen A=4, B=5, C=5 is still alive after 500generations with 5988 cells (22.177777777777777% of world)
+gen A=4, B=6, C=4 is still alive after 500generations with 7234 cells (26.79259259259259% of world)
+gen A=4, B=6, C=5 is still alive after 500generations with 6741 cells (24.96666666666667% of world)
+gen A=4, B=6, C=6 is still alive after 500generations with 15 cells (0.05555555555555555% of world)
+gen A=4, B=7, C=4 is still alive after 500generations with 8144 cells (30.162962962962965% of world)
+gen A=4, B=7, C=5 is still alive after 500generations with 7675 cells (28.425925925925927% of world)
+gen A=4, B=7, C=6 is still alive after 500generations with 24 cells (0.08888888888888889% of world)
+gen A=4, B=7, C=7 died after 2generations
+gen A=4, B=8, C=4 is still alive after 500generations with 12611 cells (46.70740740740741% of world)
+gen A=4, B=8, C=5 is still alive after 500generations with 12689 cells (46.9962962962963% of world)
+gen A=4, B=8, C=6 is still alive after 500generations with 10855 cells (40.2037037037037% of world)
+gen A=4, B=8, C=7 died after 1generations
+gen A=4, B=8, C=8 is still alive after 500generations with 13 cells (0.04814814814814815% of world)
+gen A=4, B=9, C=4 is still alive after 500generations with 12198 cells (45.17777777777778% of world)
+gen A=4, B=9, C=5 is still alive after 500generations with 12544 cells (46.45925925925926% of world)
+gen A=4, B=9, C=6 is still alive after 500generations with 12836 cells (47.54074074074074% of world)
+gen A=4, B=9, C=7 died after 2generations
+gen A=4, B=9, C=8 is still alive after 500generations with 26 cells (0.0962962962962963% of world)
+gen A=4, B=9, C=9 is still alive after 500generations with 5 cells (0.018518518518518517% of world)
+gen A=5, B=5, C=5 died after 6generations
+gen A=5, B=6, C=5 is still alive after 500generations with 12 cells (0.044444444444444446% of world)
+gen A=5, B=6, C=6 died after 1generations
+gen A=5, B=7, C=5 is still alive after 500generations with 8 cells (0.02962962962962963% of world)
+gen A=5, B=7, C=6 died after 1generations
+gen A=5, B=7, C=7 is still alive after 500generations with 6 cells (0.022222222222222223% of world)
+gen A=5, B=8, C=5 is still alive after 500generations with 10984 cells (40.68148148148148% of world)
+gen A=5, B=8, C=6 died after 1generations
+gen A=5, B=8, C=7 died after 1generations
+gen A=5, B=8, C=8 died after 1generations
+gen A=5, B=9, C=5 is still alive after 500generations with 8 cells (0.02962962962962963% of world)
+gen A=5, B=9, C=6 died after 1generations
+gen A=5, B=9, C=7 is still alive after 500generations with 6 cells (0.022222222222222223% of world)
+gen A=5, B=9, C=8 died after 1generations
+gen A=5, B=9, C=9 died after 1generations
+gen A=6, B=6, C=6 died after 2generations
+gen A=6, B=7, C=6 died after 1generations
+gen A=6, B=7, C=7 died after 1generations
+gen A=6, B=8, C=6 died after 7generations
+gen A=6, B=8, C=7 died after 1generations
+gen A=6, B=8, C=8 died after 1generations
+gen A=6, B=9, C=6 died after 1generations
+gen A=6, B=9, C=7 died after 1generations
+gen A=6, B=9, C=8 died after 1generations
+gen A=6, B=9, C=9 died after 1generations
+gen A=7, B=7, C=7 died after 1generations
+gen A=7, B=8, C=7 died after 0generations
+gen A=7, B=8, C=8 died after 1generations
+gen A=7, B=9, C=7 died after 1generations
+gen A=7, B=9, C=8 died after 1generations
+gen A=7, B=9, C=9 died after 1generations
+gen A=8, B=8, C=8 died after 1generations
+gen A=8, B=9, C=8 died after 0generations
+gen A=8, B=9, C=9 died after 1generations
+gen A=9, B=9, C=9 died after 1generations
